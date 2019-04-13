@@ -3,7 +3,7 @@ package br.com.digitalhouse.Exercicio1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Curso {
+public class Curso extends Aula{
 
     private String nome;
 

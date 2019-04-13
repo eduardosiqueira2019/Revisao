@@ -1,10 +1,8 @@
 package br.com.digitalhouse.Exercicio1;
 
-public class Turma {
+public class Turma extends Curso {
 
     private String nome;
-
-    private String nomeCursoTurma;
 
     public String getNome() {
         return nome;
